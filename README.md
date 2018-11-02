@@ -1,2 +1,2 @@
 # newcoder_offer
-牛客网剑指offer顺序记录——C++
+牛客网剑指offer刷题记录——C++
